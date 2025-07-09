@@ -1,1 +1,1 @@
-# context-window-architecture
+# moved to https://github.com/contextwindowarchitecture/contextwindowarchitecture
